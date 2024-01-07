@@ -19,4 +19,4 @@ jobs:
           cache: npm
 
       - name: Test build website
-        run: yarn build
+        run: npm run build
