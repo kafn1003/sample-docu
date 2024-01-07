@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Cash Settlement
+# Settlement
 
 *How to Calculate Cash Settlements*
 
